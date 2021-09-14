@@ -1,0 +1,160 @@
+/* ========================== 
+        google fonts 
+============================ */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700;800&display=swap');
+
+/* ========================== 
+       Root variables
+============================ */
+:root{
+
+    /* ---fonts variable---- */
+    --mainFont :'Montserrat', sans-serif;
+    --fontBold:700;
+    --fontSemi:600;
+    --fontMedium:500;
+    --fontRegular:400;
+    --fontLight:300;
+    
+
+    /* ---color variable---- */
+
+
+
+    
+}
+
+
+/* ========================== 
+      Reset CSS
+============================ */
+
+
+a{
+     text-decoration: none;
+}
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+img{
+     display: block;
+     max-width: 100%;
+}
+
+
+
+/* ========================== 
+     Global CSS
+============================ */
+
+li{
+    list-style: none;
+}
+
+ul{
+    display: flex;
+}
+
+html{
+    font-family: 62.5%;
+}
+
+
+body{
+    font-family:var(--mainFont);
+}
+
+.container{
+     max-width: 1140px;
+     margin: 0 auto;
+     padding-left: 1rem;
+     padding-right: 1rem;
+}
+
+
+.slider{
+     width: 80%;
+     height: 50vh;
+     margin: 0 auto;
+     margin-top: 2rem;
+}
+
+.main-slider{
+     position: relative;
+}
+a.next {
+     position: absolute;
+     top: 50%;
+ }
+
+ .next img{
+      width: 10%;
+ }
+ .pre img{
+      width: 10%;
+ }
+
+
+ a.pre {
+     position: absolute;
+     top: 50%;
+     right: -40%;
+ }
+
+
+/* ========================== 
+     ---- section style
+============================ */
+
+
+/* ========================== 
+     ---- section style
+============================ */
+
+
+/* ========================== 
+     ---- section style
+============================ */
+
+
+/* ========================== 
+     ---- section style
+============================ */
+
+
+/* ========================== 
+     ---- section style
+============================ */
+
+
+
+/* ========================== 
+     ---- section style
+============================ */
+
+
+
+
+/* ========================== 
+     ---- section style
+============================ */
+
+
+
+
+/* ========================== 
+     ---- section style
+============================ */
+
+
+
+
+/* ========================== 
+     ---- section style
+============================ */
